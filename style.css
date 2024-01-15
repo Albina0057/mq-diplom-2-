@@ -11,13 +11,13 @@ body {
 }
 @font-face {
   font-family: "Open Sans";
-  src:"https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Bold.woff" ;
+  src:"FONTS/OpenSans-Bold.woff" ;
   font-weight: 700;
   font-style: Bold;
 }
 @font-face {
   font-family: "Open Sans";
-  src:"https://netology-code.github.io/html-2-diploma/sources/fonts/OpenSans-Regular.woff" ;
+  src:"FONTS/OpenSans-Regular.woff" ;
   font-weight: 400;
   font-style: Regular;
 }
